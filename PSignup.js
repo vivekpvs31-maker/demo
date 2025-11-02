@@ -20,5 +20,5 @@ form.addEventListener("submit",(e)=>{
    
     alert("signup done")
 
-    open("./Plogin.html")
+    open("./PLogin.html")
 })
